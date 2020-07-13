@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
 import './App.css';
 import HomePage from "./pages/homepage/homepage.component";
+import {Route} from 'react-router-dom';
+
+
 
 class App extends Component {
   render() {
